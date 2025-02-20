@@ -1,0 +1,7 @@
+S1: conectarse("popo")
+R1: Exception!(AliasInvalido)
+S2: conectarse("lolo")
+R2: OK!(false)
+S3: nuevaPalabra(0)
+R3: Exception!(NullPointerException)
+S4: EXIT!()

@@ -1,0 +1,5 @@
+S1: conectarse("chichi")
+R1: OK!(false)
+S2: nuevaPalabra(0)
+R2: Exception!(NullPointerException)
+S3: EXIT!()
